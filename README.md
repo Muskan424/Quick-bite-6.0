@@ -1,3 +1,4 @@
+//Backend of my project 
 //It will use a backend and a template engine that will directly render the HTML page
 const express = require('express');
 const sqlite3 = require('sqlite3').verbose();
